@@ -1,3 +1,4 @@
+# Business Content Manager
 from itertools import product
 
 from ManagerFunctions import *
